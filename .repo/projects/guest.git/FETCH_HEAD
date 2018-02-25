@@ -1,0 +1,5 @@
+9fc85ee99dea3552858fdc1ce1d279ef5897e6ff		branch 'improvement/extract-kernels-script' of https://github.com/S2E/guest-tools
+a33b1e0ef987387daf484f86139e0b145661bdcb		branch 'improvement/include-returncode-process-unload' of https://github.com/S2E/guest-tools
+6d57ab78fccb373ab91ec2f95c929ca6aef1fd60		branch 'master' of https://github.com/S2E/guest-tools
+e92ebbd7ca5a1642b4798c1bfe8cbc3a62a4e4ba	not-for-merge	tag 'v2.0.0' of https://github.com/S2E/guest-tools
+b533e241ebb2d7658d10e82f13c0f36d34de2b21	not-for-merge	tag 'v2.0.1' of https://github.com/S2E/guest-tools

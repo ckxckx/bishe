@@ -1,0 +1,26 @@
+{
+  "core.filemode": [
+    "true"
+  ], 
+  "remote.s2e.fetch": [
+    "+refs/heads/*:refs/remotes/s2e/*"
+  ], 
+  "core.repositoryformatversion": [
+    "0"
+  ], 
+  "remote.s2e.url": [
+    "https://github.com/S2E/build-scripts"
+  ], 
+  "user.email": [
+    "ckx1025ckx@163.com"
+  ], 
+  "remote.s2e.projectname": [
+    "build-scripts"
+  ], 
+  "filter.lfs.smudge": [
+    "git-lfs smudge --skip -- %f"
+  ], 
+  "user.name": [
+    "ckxckx"
+  ]
+}

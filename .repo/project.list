@@ -1,0 +1,17 @@
+build-scripts
+decree
+docs
+guest
+klee
+libcoroutine
+libcpu
+libfsigc++
+libq
+libs2e
+libs2ecore
+libs2eplugins
+libtcg
+libvmi
+qemu
+s2e-env
+tools

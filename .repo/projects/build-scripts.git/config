@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[user]
+	name = ckxckx
+	email = ckx1025ckx@163.com
+[filter "lfs"]
+	smudge = git-lfs smudge --skip -- %f
+[remote "s2e"]
+	url = https://github.com/S2E/build-scripts
+	projectname = build-scripts
+	fetch = +refs/heads/*:refs/remotes/s2e/*
